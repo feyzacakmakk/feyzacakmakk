@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Feyza Çakmak</h1>
 <h3 align="center">Software Developer</h3>
 
-
-- 🔭 I’m currently working on **.Net Core**
-
-- 🌱 I’m currently learning **SignalR**
-
 - 📫 How to reach me **feyzacakmakk1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
